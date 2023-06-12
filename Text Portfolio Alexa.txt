@@ -1,7 +1,6 @@
 * HOME
 home__social
 https://www.linkedin.com/
-https://dribbble.com/
 https://github.com/
 
 home__description
