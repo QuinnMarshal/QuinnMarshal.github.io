@@ -160,7 +160,7 @@ img {
   max-width: 100%;
   height: var(--header-height);
   display: flex;
-  justify-content: space-between;
+  justify-content: center;
   align-items: center;
 }
 
