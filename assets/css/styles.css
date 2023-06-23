@@ -486,7 +486,27 @@ img {
 }
 
 .skills__html{
+  width: 100%;
+}
+
+.skills__javascript{
   width: 90%;
+}
+
+.skills__css{
+  width: 100%;
+}
+
+.skills__java{
+  width: 100%;
+}
+
+.skills__python{
+  width: 90%;
+}
+
+.skills__c{
+  width: 50%;
 }
 
 .skills__close .skills__list{
