@@ -292,6 +292,7 @@ img {
 }
 .home__img{
   align-items: center;
+  position: flex;
 }
 
 .home__subtitle{
