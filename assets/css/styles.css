@@ -292,7 +292,7 @@ img {
 }
 .home__img{
   align-items: center;
-  position: center;
+  justify-content: center;
 }
 
 .home__subtitle{
