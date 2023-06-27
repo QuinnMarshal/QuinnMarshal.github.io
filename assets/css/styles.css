@@ -304,6 +304,7 @@ img {
   color: var(--text-color);
   font-weight: var(--font-medium);
   margin-bottom: var(--mb-0-75);
+  align-items: center;
 }
 
 .home__description{
