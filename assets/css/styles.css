@@ -254,7 +254,7 @@ img {
 }
 
 .home__content{
-  /*grid-template-columns: .5fr 3fr;*/
+  grid-template-columns: auto
   padding-top: 3.5rem;
   align-items: center;
   justify-content: center;
