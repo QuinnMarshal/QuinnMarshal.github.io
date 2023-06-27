@@ -254,6 +254,7 @@ img {
 }
 
 .home__content{
+  grid-template-columns: max-content;
   padding-top: 3.5rem;
   align-items: center;
   /*justify-content: center;*/
@@ -286,7 +287,6 @@ img {
 }
 
 .home__data{
-  /*grid-column:auto;*/
   justify-content: center;
 }
 
