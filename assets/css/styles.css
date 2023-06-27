@@ -288,6 +288,7 @@ img {
 
 .home__data{
   justify-content: center;
+  align-items: center;
 }
 
 .home__title{
