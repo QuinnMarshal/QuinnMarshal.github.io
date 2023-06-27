@@ -287,7 +287,7 @@ img {
 }
 
 .home__data{
-  grid-column:auto;
+  /*grid-column:auto;*/
   justify-content: center;
 }
 
