@@ -296,6 +296,7 @@ img {
 .home__img{
   align-items: center;
   justify-content: center;
+  width: auto;
 }
 
 .home__subtitle{
