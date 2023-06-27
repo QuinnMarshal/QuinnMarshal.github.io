@@ -252,7 +252,7 @@ img {
   gap: 1rem;
   justify-content: center;
   align-items: center;
-  width: max-content;
+  /*width: max-content;*/
 }
 
 .home__content{
@@ -266,7 +266,6 @@ img {
   display: grid;
   grid-template-columns: max-content;
   row-gap: 1rem;
-  /*align-items: center;*/
 }
 
 .home__social-icon{
@@ -276,16 +275,6 @@ img {
 
 .home__social-icon:hover{
   color: var(--first-color-alt);
-}
-
-.home__blob{
-  width: 200px;
-  fill: var(--first-color);
-}
-
-.home__blob-img{
-  width: 170px;
-  justify-content: center;
 }
 
 .home__data{
