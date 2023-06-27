@@ -252,6 +252,7 @@ img {
   gap: 1rem;
   justify-content: center;
   align-items: center;
+  width: max-content;
 }
 
 .home__content{
