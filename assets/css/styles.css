@@ -254,11 +254,9 @@ img {
 }
 
 .home__content{
-  /*grid-template-columns: auto;*/
-  display: grid;
   padding-top: 3.5rem;
   align-items: center;
-  justify-content: center;
+  /*justify-content: center;*/
 }
 
 .home__social{
