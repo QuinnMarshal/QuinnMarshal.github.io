@@ -256,6 +256,7 @@ img {
   grid-template-columns: .5fr 3fr;
   padding-top: 3.5rem;
   align-items: center;
+  justify-content: center;
 }
 
 .home__social{
