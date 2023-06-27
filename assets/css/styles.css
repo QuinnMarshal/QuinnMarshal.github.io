@@ -251,6 +251,7 @@ img {
 .home__container{
   gap: 1rem;
   justify-content: center;
+  align-items: center;
 }
 
 .home__content{
