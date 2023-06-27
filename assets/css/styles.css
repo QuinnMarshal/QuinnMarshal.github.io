@@ -288,6 +288,7 @@ img {
 
 .home__data{
   grid-column:auto;
+  justify-content: center;
 }
 
 .home__title{
