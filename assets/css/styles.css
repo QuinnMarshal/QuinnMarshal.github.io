@@ -499,6 +499,22 @@ img {
   width: 65%;
 }
 
+.skills__sql{
+  width: 90%;
+}
+
+.skills__matlab{
+  width: 100%;
+}
+
+.skills__excel{
+  width: 90%;
+}
+
+.skills__rstudio{
+  width: 95%;
+}
+
 .skills__close .skills__list{
   height: 0;
   overflow: hidden;
