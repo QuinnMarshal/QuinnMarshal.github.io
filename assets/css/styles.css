@@ -560,9 +560,8 @@ img {
 
 .qualification__data2{
   display: grid;
-  grid-template-columns: 1fr max-content 1fr;
+  grid-template-columns: 1fr max-content 3fr;
   column-gap: 1.5rem;
-  justify-content: right;
 }
 
 .qualification__title{
