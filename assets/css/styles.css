@@ -79,8 +79,6 @@
 * {
   box-sizing: border-box;
   padding: 0;
-  padding-left: var(--mb-0-75);
-  padding-right: var(--mb-0-75);
   margin: 0;
 }
 
@@ -380,6 +378,8 @@ img {
 .about__description{
   text-align: left;
   margin-bottom: var(--mb-2-5);
+  padding-right: var(--mb-0-75);
+  padding-left: var(--mb-0-75);
 }
 
 .about__info{
