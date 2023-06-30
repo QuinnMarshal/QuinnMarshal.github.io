@@ -562,7 +562,7 @@ img {
 
 .qualification__data2{
   display: grid;
-  grid-template-columns: 1fr max-content 3fr;
+  grid-template-columns: 4fr max-content 1fr;
   column-gap: 1.5rem;
 }
 
