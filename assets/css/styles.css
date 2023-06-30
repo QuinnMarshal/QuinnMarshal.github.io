@@ -378,8 +378,8 @@ img {
 .about__description{
   text-align: left;
   margin-bottom: var(--mb-2-5);
-  padding-right: var(--mb-1-5) !important;
-  padding-left: var(--mb-1-5) !important;
+  padding-right: var(--mb-2) !important;
+  padding-left: var(--mb-2) !important;
 }
 
 .about__info{
