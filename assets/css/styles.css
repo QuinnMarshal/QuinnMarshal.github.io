@@ -186,7 +186,7 @@ img {
 @media screen and (max-width: 880px){
   .nav__menu{
     position: fixed;
-    bottom: 0;
+    top: 0;
     left: 0;
     width: 100%;
     background-color: var(--body-color);
@@ -239,12 +239,6 @@ img {
 .show-menu{
   bottom: 0;
 }
-
-/* Active link */
-
-
-/* Change background header */
-
 
 /*==================== HOME ====================*/
 
@@ -610,42 +604,6 @@ img {
   color: var(--first-color);
 }
 
-/*==================== PORTFOLIO ====================*/
-
-.portfolio__container{
-  overflow: initial;
-}
-
-.portfolio__content{
-  padding: 0 1.5rem;
-}
-
-.portfolio__img{
-  width: 265px;
-  border-radius: .5rem;
-  justify-self: center;
-}
-
-.portfolio__title{
-  font-size: var(--h3-font-size);
-  margin-bottom: var(--mb-0-5);
-}
-
-.portfolio__description{
-  margin-bottom: var(--mb-0-75);
-}
-
-.portfolio__button:hover .button__icon{
-  transform: translateX(.25rem);
-}
-
-
-/*==================== PROJECT IN MIND ====================*/
-
-
-/*==================== TESTIMONIAL ====================*/
-
-
 /*==================== CONTACT ME ====================*/
 
 .contact__container{
@@ -751,14 +709,6 @@ img {
 .footer__social{
   color: #FFF;
 }
-
-/*========== SCROLL UP ==========*/
-
-
-/* Show scroll */
-
-
-/*========== SCROLL BAR ==========*/
 
 
 /*==================== MEDIA QUERIES ====================*/
