@@ -160,7 +160,7 @@ img {
 .nav{
   max-width: 100%;
   height: var(--header-height);
-  display: flex;
+  display: inline;
   justify-content: center;
   align-items: center;
 }
