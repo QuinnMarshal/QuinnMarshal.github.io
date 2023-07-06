@@ -199,7 +199,7 @@ img {
 }
 
 .nav__list{
-  grid-template-columns: auto;
+  grid-template-rows: auto;
   gap: 2rem;
 }
 
