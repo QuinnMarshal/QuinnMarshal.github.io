@@ -549,7 +549,7 @@ img {
 
 .qualification__data{
   display: grid;
-  /*grid-template-columns: 1fr max-content 1fr;*/
+  grid-template-columns: 1fr max-content 1fr;
   justify-content: center;
   column-gap: 1.5rem;
 }
@@ -568,14 +568,6 @@ img {
 .qualification__calendar{
   font-size: var(--smaller-font-size);
   color: var(--text-color-light);
-}
-
-.qualification__line{
-  display: block;
-  width: 1px;
-  height: 100%;
-  background-color: var(--first-color);
-  transform: translate(6px, -7px);
 }
 
 .qualification [data-content]{
