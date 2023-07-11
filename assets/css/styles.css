@@ -550,6 +550,7 @@ img {
 .qualification__data{
   display: grid;
   justify-content: center;
+  margin-bottom: var(--mb-2);
 }
 
 .qualification__title{
