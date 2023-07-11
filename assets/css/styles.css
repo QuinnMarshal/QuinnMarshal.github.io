@@ -3,7 +3,7 @@
 
 /*==================== VARIABLES CSS ====================*/
 :root {
-    --header-height: 3rem;
+    --header-height: 5rem;
 
     /*========== Colors ==========*/
     /* Change favorite color */
@@ -49,6 +49,7 @@
     --mb-2: 2rem;
     --mb-2-5: 2.5rem;
     --mb-3: 3rem;
+    --mb-5: 5rem;
 
     /*========== z index ==========*/
     --z-tooltip: 10;
