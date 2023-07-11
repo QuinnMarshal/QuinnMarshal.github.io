@@ -161,10 +161,6 @@ img {
 .nav{
   max-width: 100%;
   height: var(--header-height);
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  list-style-type: none;
 }
 
 .nav__logo
@@ -199,7 +195,10 @@ img {
 }  
 
 .nav__list{
-  display: inline;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  list-style-type: none;
   gap: 2rem;
 }
 
