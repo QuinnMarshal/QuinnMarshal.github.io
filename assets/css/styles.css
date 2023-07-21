@@ -233,6 +233,7 @@ img {
   padding-top: 3.5rem;
   align-items: center;
   justify-content: center;
+  width: max-content;
 }
 
 .home__social{
