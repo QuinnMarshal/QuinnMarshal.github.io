@@ -264,7 +264,7 @@ img {
 .home__img{
   align-items: center;
   justify-content: center;
-  width: auto;
+  width: 200px;
 }
 
 .home__description{
