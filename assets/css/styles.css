@@ -226,7 +226,6 @@ img {
   gap: 1rem;
   justify-content: center;
   align-items: center;
-  /*width: max-content;*/
 }
 
 .home__content{
@@ -264,7 +263,8 @@ img {
 .home__img{
   align-items: center;
   justify-content: center;
-  height: 200px;
+  height: auto;
+  width: auto;
 }
 
 .home__description{
