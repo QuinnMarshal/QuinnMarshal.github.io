@@ -263,8 +263,6 @@ img {
 .home__img{
   align-items: center;
   justify-content: center;
-  height: auto;
-  width: auto;
 }
 
 .home__description{
