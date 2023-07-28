@@ -240,8 +240,9 @@ img {
 
 .home__social{
   grid-template-rows: max-content;
-  color-scheme: 1rem;
+  column-gap: 1rem;
   align-items: center;
+  justify-content: center;
 }
 
 .home__social-icon{
