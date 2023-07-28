@@ -229,7 +229,6 @@ img {
 }
 
 .home__content{
-  /*grid-template-columns: .5fr 3fr;*/
   padding-top: 3.5rem;
   padding-right: 15rem;
   padding-left: 15rem;
@@ -239,14 +238,15 @@ img {
 }
 
 .home__social{
-  grid-template-rows: max-content;
+  /*grid-template-rows: max-content;
   column-gap: 1rem;
   align-items: center;
-  justify-content: center;
+  justify-content: center;*/
+  text-align: center;
 }
 
 .home__social-icon{
-  font-size: 1.25rem;
+  font-size: 2rem;
   color: var(--first-color);
 }
 
