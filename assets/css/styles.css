@@ -239,9 +239,9 @@ img {
 }
 
 .home__social{
-  display: grid;
-  grid-template-columns: max-content;
-  row-gap: 1rem;
+  grid-template-rows: max-content;
+  color-scheme: 1rem;
+  align-items: center;
 }
 
 .home__social-icon{
