@@ -260,7 +260,7 @@ img {
   font-size: var(--big-font-size);
 }
 
-@media screen and (max-width: 400px) {
+@media screen and (min-width: 700px) {
   .home__img{
     align-items: center;
     justify-content: center;
