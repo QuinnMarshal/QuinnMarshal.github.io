@@ -260,10 +260,12 @@ img {
   font-size: var(--big-font-size);
 }
 
-.home__img{
-  align-items: center;
-  justify-content: center;
-  border-radius: .5rem;
+@media screen and (max-width: 400px) {
+  .home__img{
+    align-items: center;
+    justify-content: center;
+    border-radius: .5rem;
+  }
 }
 
 .home__description{
