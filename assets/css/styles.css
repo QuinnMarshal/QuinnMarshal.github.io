@@ -260,13 +260,22 @@ img {
   font-size: var(--big-font-size);
 }
 
+@media only screen and (max-width: 480px) {
+  .home__img{
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+    border-radius: .5rem;
+  }
+}
 
-.home__img{
-  height: 200px;
-  width: 50%;
-  align-items: center;
-  justify-content: center;
-  border-radius: .5rem;
+@media only screen and (min-width: 481px) {
+  .home__img{
+    width: 50%;
+    align-items: center;
+    justify-content: center;
+    border-radius: .5rem;
+  }
 }
 
 .home__description{
