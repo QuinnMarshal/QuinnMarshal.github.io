@@ -260,12 +260,13 @@ img {
   font-size: var(--big-font-size);
 }
 
-@media screen and (min-width: 700px) {
-  .home__img{
-    align-items: center;
-    justify-content: center;
-    border-radius: .5rem;
-  }
+
+.home__img{
+  height: 200px;
+  width: 50%;
+  align-items: center;
+  justify-content: center;
+  border-radius: .5rem;
 }
 
 .home__description{
