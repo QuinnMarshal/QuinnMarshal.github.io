@@ -263,11 +263,11 @@ a {
 
 @media only screen and (max-width: 480px) {
   .home__img{
-    width: 75%;
+    width: 65%;
     align-items: center;
     justify-content: center;
     border-radius: .5rem;
-    transform: translateX(-37.5%);
+    transform: translateX(-32.5%);
   }
 }
 
